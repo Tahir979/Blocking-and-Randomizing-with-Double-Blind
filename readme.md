@@ -9,3 +9,7 @@
 > * For more information about Blocking, please [click](https://dictionary.apa.org/block-design) and [click](https://dictionary.apa.org/blocking).
 
 > **THİS İS NOT A COMPLETED-PROJECT!** This program has been prepared for the researchers who eager to see which ways this procedure can be done. For an ideal view, run at 1920 * 1080 resolution and 100% scale settings. After finishing this project, it would be more useful to focus on [Triple Blind](https://dictionary.apa.org/blind).
+
+## ScreenShot
+
+![main](/Blocking%20and%20Randomizing/screenshot/main.png)
