@@ -1,0 +1,14 @@
+C:\Users\wasd0\Desktop\Blocking and Randomizing\Blocking and Randomizing\bin\Debug\Blocking and Randomizing.exe.config
+C:\Users\wasd0\Desktop\Blocking and Randomizing\Blocking and Randomizing\bin\Debug\Blocking and Randomizing.exe
+C:\Users\wasd0\Desktop\Blocking and Randomizing\Blocking and Randomizing\bin\Debug\Blocking and Randomizing.pdb
+C:\Users\wasd0\Desktop\Blocking and Randomizing\Blocking and Randomizing\bin\Debug\MetroFramework.Design.dll
+C:\Users\wasd0\Desktop\Blocking and Randomizing\Blocking and Randomizing\bin\Debug\MetroFramework.dll
+C:\Users\wasd0\Desktop\Blocking and Randomizing\Blocking and Randomizing\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\wasd0\Desktop\Blocking and Randomizing\Blocking and Randomizing\obj\Debug\Blocking and Randomizing.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\Blocking and Randomizing\Blocking and Randomizing\obj\Debug\Blocking_and_Randomizing.main.resources
+C:\Users\wasd0\Desktop\Blocking and Randomizing\Blocking and Randomizing\obj\Debug\Blocking_and_Randomizing.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Blocking and Randomizing\Blocking and Randomizing\obj\Debug\Blocking and Randomizing.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Blocking and Randomizing\Blocking and Randomizing\obj\Debug\Blocking and Randomizing.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\Blocking and Randomizing\Blocking and Randomizing\obj\Debug\Blocking and Randomizing.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Blocking and Randomizing\Blocking and Randomizing\obj\Debug\Blocking and Randomizing.exe
+C:\Users\wasd0\Desktop\Blocking and Randomizing\Blocking and Randomizing\obj\Debug\Blocking and Randomizing.pdb
